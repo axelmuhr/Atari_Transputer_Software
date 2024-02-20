@@ -1,10 +1,10 @@
 # C code examples
 
-There are two Mandelbrot fractal examples available
+There are two Mandelbrot fractal examples available - both programmed using Pure-C.
 
 ## TMANDEL.PRG
 
-the evil, dirty, down-to-the-metal, direct-to-screen-writing version.
+the *evil*, **dirty**, down-to-the-metal, direct-to-screen-writing version.
 This is good for getting an idea of how fast data is being pushed to the Atari ST without much handling overhead.
 As this writes to the Screen directly, it **only runs in “ST-High” resolution** (i.e. 640x400x1).
 
