@@ -1,0 +1,5 @@
+PATH=c:\;c:\bin;c:\d72uni\itools 
+TRANSPUTER=c:\bin\linkalia.tos@0x4711
+ISEARCH=c:\d72uni\libs\
+ITERM=c:\d72uni\iterms\ntansi.itm
+FTERM=c:\d72uni\iterms\ntansi.itm
