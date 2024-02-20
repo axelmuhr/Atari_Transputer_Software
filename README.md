@@ -3,3 +3,5 @@ This repository contains various Programs, Tools &amp; Demos to be used with an 
 
 The files are currently sorted into folders named either by their author or programming language.  
 See the specific READMEs inside each folder.
+
+To learn more about how to access the Tranputer from a (Atari) program, [read the main article here](https://www.geekdot.com/stgatw-programming-and-software/#howtocode)
